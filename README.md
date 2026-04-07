@@ -11,32 +11,32 @@
 ---
 
 <table width="100%" style="border: none;">
-  <tr>
-    <td width="65%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>Hey there 👋 I'm <b>Marva</b>, a Python Full Stack Developer who transforms complex problems into scalable, and high-performance solutions. I blend the reliability of Django and FastAPI with the interactivity of React to build modern applications that perform flawlessly in the real world.</p>
-      
-      <p><b>💡 What I brew in my dev lab:</b></p>
-      <ul>
-        <li><b>Seamless RESTful APIs</b> and robust backends with Django & FastAPI.</li>
-        <li><b>Database mastery</b> with PostgreSQL, MongoDB, and Redis.</li>
-        <li><b>Pixel-perfect UIs</b> using React, Redux, and Tailwind CSS.</li>
-        <li><b>AI & Microservices</b> using LangChain, RAG architectures, and RabbitMQ.</li>
-        <li><b>Cloud-ready deployments</b> with Docker and AWS.</li>
-      </ul>
-      
-      <p><b>🌟 Always learning. Always building. Always leveling up.</b></p>
-      <p>Let's connect and create something impactful together!</p>
-    </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/developer.gif" width="100%" alt="Developer animation" />
-    </td>
-  </tr>
+<tr>
+<td width="65%" valign="top">
+
+<h3>👨‍💻 About Me</h3>
+<p>Hey there 👋 I'm <b>Marva</b>, a Python Full Stack Developer who transforms complex problems into scalable, and high-performance solutions. I blend the reliability of Django and FastAPI with the interactivity of React to build modern applications that perform flawlessly in the real world.</p>
+<p><b>💡 What I brew in my dev lab:</b></p>
+<ul>
+<li><b>Seamless RESTful APIs</b> and robust backends with Django & FastAPI.</li>
+<li><b>Database mastery</b> with PostgreSQL, MongoDB, and Redis.</li>
+<li><b>Pixel-perfect UIs</b> using React, Redux, and Tailwind CSS.</li>
+<li><b>AI & Microservices</b> using LangChain, RAG architectures, and RabbitMQ.</li>
+<li><b>Cloud-ready deployments</b> with Docker and AWS.</li>
+</ul>
+<p><b>🌟 Always learning. Always building. Always leveling up.</b></p>
+<p>Let's connect and create something impactful together!</p>
+
+</td>
+<td width="35%" align="center" valign="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/developer.gif" width="100%" alt="Developer animation" />
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="left">🛠️ Technologies & Tools</h2>
+<h3>🛠️ Technologies & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -63,49 +63,49 @@
 
 ---
 
-<h2 align="left">💼 Experience & Education</h2>
+<h3>💼 Experience & Education</h3>
 
-### 🏢 Bridgeon Solutions
+#### 🏢 Bridgeon Solutions
 **Full Stack Developer Intern**
 - Developed REST APIs using Django REST Framework.
 - Integrated backend services with frontend applications.
 - Optimized backend performance and resolved production issues.
 
-### 🎓 EMEA College of Arts & Science
+#### 🎓 EMEA College of Arts & Science
 **BSc Computer Science** | 2022–2025
 
 ---
 
-<h2 align="left">🚀 Featured Projects</h2>
+<h3>🚀 Featured Projects</h3>
 
 <table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 <a href="https://github.com/marvakt">Resiko</a></h3>
-      <p><b>AI Resume Optimization Platform</b></p>
-      <p>Built a multi-agent system using LangGraph for automated resume optimization with an ATS scoring system based on keywords, skills, and structure.</p>
-      <p><i>FastAPI, LangGraph, PostgreSQL, Docker</i></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 <a href="https://github.com/marvakt">Mentora</a></h3>
-      <p><b>AI Mental Health Platform</b></p>
-      <p>Microservices architecture for auth, users, and appointments. Features a RAG-based AI engine using LangChain and FAISS for treatment generation.</p>
-      <p><i>Django, FastAPI, MongoDB, RabbitMQ, Redis</i></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🛒 <a href="https://github.com/marvakt">DecoNest</a></h3>
-      <p><b>E-Commerce Platform</b></p>
-      <p>Full-stack e-commerce system with cart and order workflows. Optimized REST APIs reducing query response time by 20%.</p>
-      <p><i>React, Django REST Framework, PostgreSQL</i></p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+<h4>🤖 Resiko</h4>
+<p><b>AI Resume Optimization Platform</b></p>
+<p>Built a multi-agent system using LangGraph for automated resume optimization with an ATS scoring system based on keywords, skills, and structure.</p>
+<p><i>FastAPI, LangGraph, PostgreSQL, Docker</i></p>
+</td>
+<td width="33%" valign="top">
+<h4>🧠 Mentora</h4>
+<p><b>AI Mental Health Platform</b></p>
+<p>Microservices architecture for auth, users, and appointments. Features a RAG-based AI engine using LangChain and FAISS for treatment generation.</p>
+<p><i>Django, FastAPI, MongoDB, RabbitMQ, Redis</i></p>
+</td>
+<td width="33%" valign="top">
+<h4>🛒 DecoNest</h4>
+<p><b>E-Commerce Platform</b></p>
+<p>Full-stack e-commerce system with cart and order workflows. Optimized REST APIs reducing query response time by 20%.</p>
+<p><i>React, Django REST Framework, PostgreSQL</i></p>
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvakt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="marvakt's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvakt&theme=tokyonight&hide_border=true&background=0D1117" alt="marvakt's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marvakt&show_icons=true&theme=tokyonight" alt="marvakt's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvakt&theme=tokyonight" alt="marvakt's Streak" />
 </p>
