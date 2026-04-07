@@ -146,6 +146,16 @@ I'm also passionate about **AI-powered systems**, having built real-world applic
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marvakt&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer"/>
