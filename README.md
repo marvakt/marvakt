@@ -76,32 +76,6 @@
 
 ---
 
-<h3>🚀 Featured Projects</h3>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<h4>🤖 Resiko</h4>
-<p><b>AI Resume Optimization Platform</b></p>
-<p>Built a multi-agent system using LangGraph for automated resume optimization with an ATS scoring system based on keywords, skills, and structure.</p>
-<p><i>FastAPI, LangGraph, PostgreSQL, Docker</i></p>
-</td>
-<td width="33%" valign="top">
-<h4>🧠 Mentora</h4>
-<p><b>AI Mental Health Platform</b></p>
-<p>Microservices architecture for auth, users, and appointments. Features a RAG-based AI engine using LangChain and FAISS for treatment generation.</p>
-<p><i>Django, FastAPI, MongoDB, RabbitMQ, Redis</i></p>
-</td>
-<td width="33%" valign="top">
-<h4>🛒 DecoNest</h4>
-<p><b>E-Commerce Platform</b></p>
-<p>Full-stack e-commerce system with cart and order workflows. Optimized REST APIs reducing query response time by 20%.</p>
-<p><i>React, Django REST Framework, PostgreSQL</i></p>
-</td>
-</tr>
-</table>
-
----
 
 <h3 align="center">📊 GitHub Stats & Activity</h3>
 
