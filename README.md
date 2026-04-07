@@ -1,85 +1,167 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=100&lines=FATHIMA+MARVA+KT;PYTHON+FULL+STACK+DEVELOPER;PYTHON+%7C+DJANGO+%7C+REACT" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <a href="mailto:ktmarwa51@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/fathimamarvakt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://marvakt.me"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Fathima+Marva+KT;Python+Full+Stack+Developer;Django+%7C+FastAPI+%7C+React;Building+Scalable+%26+AI-Powered+Apps" alt="Typing SVG" />
+
+<br/>
+
+<p>
+<a href="mailto:ktmarwa51@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/fathimamarvakt">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://marvakt.me">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+</a>
+<a href="https://github.com/marvakt">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=marvakt&style=flat-square&color=58A6FF&label=Profile+Views" />
+
+</div>
 
 ---
 
-<table width="100%" style="border: none;">
+<table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-<h3>👨‍💻 About Me</h3>
-<p>Hey there 👋 I'm <b>Marva</b>, a Python Full Stack Developer who transforms complex problems into scalable, and high-performance solutions. I blend the reliability of Django and FastAPI with the interactivity of React to build modern applications that perform flawlessly in the real world.</p>
-<p><b>💡 What I brew in my dev lab:</b></p>
-<ul>
-<li><b>Seamless RESTful APIs</b> and robust backends with Django & FastAPI.</li>
-<li><b>Database mastery</b> with PostgreSQL, MongoDB, and Redis.</li>
-<li><b>Pixel-perfect UIs</b> using React, Redux, and Tailwind CSS.</li>
-<li><b>AI & Microservices</b> using LangChain, RAG architectures, and RabbitMQ.</li>
-<li><b>Cloud-ready deployments</b> with Docker and AWS.</li>
-</ul>
-<p><b>🌟 Always learning. Always building. Always leveling up.</b></p>
-<p>Let's connect and create something impactful together!</p>
+### 🚀 About Me
+
+Hey there! 👋 I'm **Marva**, a passionate **Python Full Stack Developer** who turns complex ideas into scalable, high-performance solutions.
+
+I blend the power of **Django & FastAPI** on the backend with the elegance of **React** on the frontend — and sprinkle in **AI/ML capabilities** using LangChain and RAG to build next-generation applications.
+
+**💡 What I do:**
+- 🔧 Build **scalable REST APIs** & microservices with Django & FastAPI
+- 🧠 Develop **AI-powered apps** using LangChain, LangGraph & FAISS
+- 🎨 Craft **responsive UIs** with React, Redux & Tailwind CSS
+- 🗄️ Work with **PostgreSQL, MongoDB & Redis**
+- 🚀 Deploy with **Docker & AWS**
+
+> *🌟 Always learning. Always building. Always leveling up.*
 
 </td>
-<td width="35%" align="center" valign="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/developer.gif" width="100%" alt="Developer animation" />
+<td width="40%" align="center" valign="center">
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/developer.gif" width="280" alt="coding gif"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-<h3>🛠️ Technologies & Tools</h3>
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<div align="center">
+
+### 🔤 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marvakt&label=PROFILE+VIEWS&style=for-the-badge&color=2196F3" alt="Profile Views" />
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML & Familiar
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 📐 Concepts & Architecture
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6D00?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
-<h3>💼 Experience & Education</h3>
+## 💼 Experience & Education
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 #### 🏢 Bridgeon Solutions
 **Full Stack Developer Intern**
-- Developed REST APIs using Django REST Framework.
-- Integrated backend services with frontend applications.
-- Optimized backend performance and resolved production issues.
+- ✅ Built REST APIs using Django REST Framework
+- ✅ Integrated backend services with React frontends
+- ✅ Optimized backend performance & resolved production issues
+
+</td>
+<td width="50%" valign="top">
 
 #### 🎓 EMEA College of Arts & Science
-**BSc Computer Science** | 2022–2025
+**BSc Computer Science**
+📅 2022 – 2025
+🏛️ University of Calicut
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 📊 GitHub Stats
 
-<h3 align="center">📊 GitHub Stats & Activity</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvakt&show_icons=true&theme=tokyonight" alt="marvakt's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvakt&theme=tokyonight" alt="marvakt's Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=marvakt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marvakt&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvakt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer"/>
+
+*⭐ If you find my work interesting, feel free to connect!*
+
+</div>
