@@ -27,33 +27,21 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## 👩‍💻 About Me
 
-### 🚀 About Me
+Hi, I'm **Fathima Marva KT** — a dedicated **Python Full Stack Developer** from Kerala, India. 🇮🇳
 
-Hey there! 👋 I'm **Marva**, a passionate **Python Full Stack Developer** who turns complex ideas into scalable, high-performance solutions.
+I specialize in building **production-ready web applications** that are fast, scalable, and maintainable. With a strong foundation in backend engineering using **Django and FastAPI**, and hands-on experience in frontend development with **React**, I enjoy owning the full product — from database design to polished UI.
 
-I blend the power of **Django & FastAPI** on the backend with the elegance of **React** on the frontend — and sprinkle in **AI/ML capabilities** using LangChain and RAG to build next-generation applications.
+I'm also passionate about **AI-powered systems**, having built real-world applications using **LangChain, LangGraph, FAISS, and RAG** — from intelligent resume analyzers to mental health platforms.
 
-**💡 What I do:**
-- 🔧 Build **scalable REST APIs** & microservices with Django & FastAPI
-- 🧠 Develop **AI-powered apps** using LangChain, LangGraph & FAISS
-- 🎨 Craft **responsive UIs** with React, Redux & Tailwind CSS
-- 🗄️ Work with **PostgreSQL, MongoDB & Redis**
-- 🚀 Deploy with **Docker & AWS**
+- 🔭 Currently building AI-integrated full stack projects
+- 🌱 Deepening expertise in LangGraph, microservices & cloud architecture
+- 💬 Ask me about Django, FastAPI, React, or anything Python
+- 📫 Reach me at **ktmarwa51@gmail.com**
+- 🌐 Portfolio: [marvakt.me](https://marvakt.me)
 
-> *🌟 Always learning. Always building. Always leveling up.*
-
-</td>
-<td width="40%" align="center" valign="center">
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/developer.gif" width="280" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
+> *"Code is not just logic — it's the bridge between ideas and impact."*
 
 ---
 
