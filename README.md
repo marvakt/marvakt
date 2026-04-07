@@ -124,13 +124,15 @@ I've also worked with **AI/ML tooling** including **LangChain, LangGraph, FAISS,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marvakt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marvakt&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marvakt&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=marvakt&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvakt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marvakt&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marvakt&theme=tokyonight" height="160"/>
 
 </div>
 
