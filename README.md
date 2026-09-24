@@ -115,6 +115,9 @@ I've also worked with **AI/ML tooling** including **LangChain, LangGraph, FAISS,
 
 ## 🎓 Education
 
+#### Adi Shankara Institute of Engineering and Technology — MCA
+📅 2026 – 2028 &nbsp;|&nbsp; 🏛️ KTU
+
 #### EMEA College of Arts & Science — BSc Computer Science
 📅 2022 – 2025 &nbsp;|&nbsp; 🏛️ University of Calicut
 
