@@ -106,6 +106,9 @@ I've also worked with **AI/ML tooling** including **LangChain, LangGraph, FAISS,
 
 ## 💼 Experience
 
+#### 🏢 CODO AI Innovations — Full Stack Developer
+- Currently working as a Full Stack Developer
+
 #### 🏢 Bridgeon Solutions — Full Stack Developer Intern
 - Built and maintained REST APIs using **Django REST Framework**
 - Integrated backend services with **React** frontend applications
